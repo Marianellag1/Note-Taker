@@ -5,7 +5,7 @@ const fs = require('fs');
 
 //`app` variable set to the value of `express()`.
 const app = express();
-const PORT = process.env.port || 3001;
+const PORT = process.env.PORT || 3001;
 
 app.use(express.json());//my middleware
 app.use(express.urlencoded({ extended: true }));//taken from notes
