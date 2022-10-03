@@ -1,12 +1,11 @@
-# Note-Taker link:
-
-
 # **Note Taker**
 
 [![Licence](http://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
-
+![Screenshot 2022-10-02 195230](https://user-images.githubusercontent.com/110939445/193486335-53d2b7e6-85aa-4a21-b861-f8d0e7dddf25.png)
+Adding a new note, save button pops up to save note.
+![Screenshot 2022-10-02 195310](https://user-images.githubusercontent.com/110939445/193486368-1cafe897-f9a9-499a-95ae-2023f72dc831.png)
 
 # **Table of Contents**
 
@@ -26,7 +25,7 @@ A quick note reminder that can take in multiple notes. User can view notes and w
 
 
 ## **Installation**
-User can click on link provided in README to see Note Taker.
+User will have to have the server on in order to see notes.
 
 
 
